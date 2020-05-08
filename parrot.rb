@@ -5,3 +5,4 @@ def parrot(phase="Squawk!")
    phase
 end
 
+phase "Hi you"
